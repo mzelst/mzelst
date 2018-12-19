@@ -33,6 +33,6 @@ weight = 5
 
 # Biography
 
-My PhD project concerns the integration of backward- and forward-looking decision making in temporally uncertain environments under the supervision of dr. F. Angeli and dr. J.P. Bechara. In this project we study how decision makers adapt organizational aspirations and behavior in response to performance expectations. Most of these projects focus on organizational performance feedback and behavioral strategy.
+My PhD project concerns the integration of backward- and forward-looking decision making in temporally uncertain environments under the supervision of dr. [F. Angeli](https://www.tilburguniversity.edu/webwijs/show/f.angeli.htm) and dr. [J.P. Bechara](https://www.tilburguniversity.edu/webwijs/show/j.p.bechara.htm). In this project we study how decision makers adapt organizational aspirations and behavior in response to performance expectations. Most of these projects focus on organizational performance feedback and behavioral strategy.
 
 I am also interested in meta-research, concerning the improvement of science as a field. I am currently working on a framework for a new system of research communication and evaluation.
