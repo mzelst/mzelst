@@ -46,7 +46,7 @@ url_slides = "https://github.com/mzelst/talks/blob/master/2018/20180516sgmeawop/
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Custom Link", url = "http://example.org"}]
+#url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
 doi = "10.3390/publications6020021"

@@ -44,5 +44,9 @@ filter_default = 0
   name = "As-you-go"
   tag = "As-you-go"
 
+[[filter]]
+  name = "Behavioral Theory of the Firm"
+  tag = "BTOF"
+
 +++
 
