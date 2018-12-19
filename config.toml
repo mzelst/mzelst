@@ -6,14 +6,14 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "/"
+baseurl = "http://marinovanzelst.com/"
 
 # Title of your site
 title = "Marino van Zelst"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2018"
+copyright = "CC0 1.0 Public Domain Dedication"
 
 theme = "hugo-academic"
 enableEmoji = true
@@ -34,7 +34,7 @@ hasCJKLanguage = false  # Set `true` for Chinese/Japanese/Korean languages.
 defaultContentLanguageInSubdir = false
 
 # Get last modified date for content from Git?
-enableGitInfo = false
+enableGitInfo = true
 
 [outputs]
   home = [ "HTML", "CSS", "RSS", "JSON" ]
@@ -64,14 +64,10 @@ enableGitInfo = false
 
   # Details for the Contact Widget
   email = "j.m.vanzelst@tilburguniversity.edu"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-  office_hours = """
-  Monday 10:00 to 13:00\\
-  Wednesday 09:00 to 10:00\\
-  Otherwise email to book an appointment
-  """
-  phone = "888 888 88 88"
-  skype = "echo123"
+  address = "Tilburg University, NL"
+  office_hours = ""
+  phone = ""
+  skype = ""
   telegram = ""
   keybase = ""  # Your keybase.io username.
 
@@ -122,7 +118,7 @@ enableGitInfo = false
   sharing_image = ""
 
   # Twitter username (without @). Used when a vistor shares your site on Twitter.
-  twitter = ""
+  twitter = "mzelst"
 
   # Diplay a logo in navigation bar rather than title (optional).
   #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
@@ -282,10 +278,10 @@ enableGitInfo = false
 
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-  # [[params.social]]
-  #   icon = "cv"
-  #   icon_pack = "ai"
-  #   link = "files/cv.pdf"
+  [[params.social]]
+   icon = "cv"
+   icon_pack = "ai"
+   link = "files/cv.pdf"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
