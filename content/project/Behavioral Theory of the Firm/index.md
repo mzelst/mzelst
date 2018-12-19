@@ -1,16 +1,16 @@
 +++
 # Project title.
-title = "As-you-go"
+title = "Behavioral Theory of the Firm"
 
 # Date this page was created.
 date = 2018-12-19T00:00:00
 
 # Project summary to display on homepage.
-summary = "This project contains all publications, works-in-progress, and talks related to the as-you-go project."
+summary = "This project contains all publications, works-in-progress, and talks related to project on the Behavioral Theory of the Firm."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["As-you-go", "Research-communication", "Research-evaluation"]
+tags = ["BTOF", "Aspirations"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
