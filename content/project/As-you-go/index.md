@@ -10,7 +10,7 @@ summary = "This project contains all publications, works-in-progress, and talks 
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Research communication, Research evaluation"]
+tags = ["As-you-go", "Research-communication", "Research-evaluation"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
