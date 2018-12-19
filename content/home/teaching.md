@@ -15,14 +15,14 @@ weight = 60
 
 +++
 
-This is an example of using the *custom* widget to create your own homepage section.
+I am a lecturer and workgroup instructor for the following courses in the undergraduate program of the department of Organization Studies at Tilburg University:
 
-I am a teaching instructor for the following courses at University X:
+- SDM: Strategic Decision Making
+- RiO: Research in Organizations (team-based research projects)
 
-- CS101: An intro to computer science
-- CS102: An intro to computer science
-- CS103: An intro to computer science
-- CS104: An intro to computer science
-- CS105: An intro to computer science
-- CS106: An intro to computer science
-- CS107: An intro to computer science
+I am a lecturer and workgroup instructor for the following courses in the graduate program of the department of Organization Studies at Tilburg University:
+
+- EBI: Evidence-Based Intervention
+- Ethics: Research Ethics (in Social and Behavioral Sciences Research Master)
+
+I also supervise ~8 undergraduate theses every year.
