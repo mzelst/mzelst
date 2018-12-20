@@ -1,29 +1,29 @@
 +++
-title = "Example Talk"
-date = 2017-01-01T00:00:00  # Schedule page publish date.
+title = "The future of research communication and evaluation: An interactive thought experiment"
+date = 2018-11-20T00:00:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2030-06-01T13:00:00
-time_end = 2030-06-01T15:00:00
+time_start = 2018-11-22T15:30:00
+time_end = 2018-11-22T18:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = []
+authors = ["Marino van Zelst"]
 
 # Abstract and optional shortened version.
-abstract = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
-abstract_short = "An example talk using Academic's Markdown slides feature."
+abstract = "Marino van Zelst is investigating how (meta-)organizations adapt their goals and strategies in response to performance feedback and expectations. He is interested in how communication and evaluation in the current scientific system can be improved, as scholarly research faces threats to its sustainability on multiple domains (access, evaluation, reproducibility, inclusivity). During this interactive workshop, you will address how the current publication system could be improved based on John Rawl’s ‘Theory of Justice’. How would the ideal research communication and evaluation system look like, if designed by you?"
+abstract_short = "During this interactive workshop, you will address how the current publication system could be improved based on John Rawl’s ‘Theory of Justice’."
 
 # Name of event and optional event URL.
-event = "Academic Theme Conference"
-event_url = "https://example.org"
+event = "ONWAR/BCRM Meeting"
+event_url = "https://www.onwar-retreat.nl"
 
 # Location of event.
-location = "London, United Kingdom"
+location = "Woudenberg, the Netherlands"
 
 # Is this a selected talk? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this talk with one or more of your projects.
@@ -31,11 +31,11 @@ selected = false
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["internal-project"]
+projects = ["As-you-go"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
+tags = ["As-you-go"]
 
 # Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -43,11 +43,11 @@ tags = []
 #   E.g. `slides = "example-slides"` references 
 #   `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides = "example-slides"
+slides = ""
 
 # Links (optional).
-url_pdf = ""
-url_slides = ""
+url_pdf = "https://github.com/mzelst/talks/blob/master/2018/20181122neurogradschool/The%20future%20of%20research%20communication%20and%20evaluation.pdf"
+url_slides = "https://github.com/mzelst/talks/blob/master/2018/20181122neurogradschool/The%20future%20of%20research%20communication%20and%20evaluation.pdf"
 url_video = ""
 url_code = ""
 
