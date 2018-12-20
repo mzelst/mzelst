@@ -47,7 +47,7 @@ slides = ""
 
 # Links (optional).
 url_pdf = "https://github.com/mzelst/talks/blob/master/2018/20181122neurogradschool/The%20future%20of%20research%20communication%20and%20evaluation.pdf"
-url_slides = "https://github.com/mzelst/talks/blob/master/2018/20181122neurogradschool/The%20future%20of%20research%20communication%20and%20evaluation.pdf"
+url_slides = "talk/The future of research communication and evaluation.pdf"
 url_video = ""
 url_code = ""
 
