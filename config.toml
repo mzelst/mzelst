@@ -72,7 +72,7 @@ enableGitInfo = true
   keybase = ""  # Your keybase.io username.
 
   # Enter an optional link for booking appointments (e.g. calendly.com).
-  appointment_url = ""
+  appointment_url = "https://calendly.com/marinovanzelst"
 
   # Discussion link (e.g. link to a forum, mailing list, or chat).
   #   Uncomment line below to use.
