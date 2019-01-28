@@ -26,3 +26,7 @@ I am a lecturer and workgroup instructor for the following courses in the gradua
 - Ethics: Research Ethics (in Social and Behavioral Sciences Research Master)
 
 I also supervise ~8 undergraduate theses every year.
+
+Teaching award:
+
+- Best undergraduate course Organization Studies (Research in Organizations, 2017-2018)
