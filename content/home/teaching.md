@@ -17,15 +17,17 @@ weight = 31
 
 I am a lecturer and workgroup instructor for the following courses in the undergraduate program of the department of Organization Studies at Tilburg University:
 
+- S&O: Strategy and Organization
 - SDM: Strategic Decision Making
 - RiO: Research in Organizations (team-based research projects)
+- IOS: Introduction to Organization Studies
 
 I am a lecturer and workgroup instructor for the following courses in the graduate program of the department of Organization Studies at Tilburg University:
 
 - EBI: Evidence-Based Intervention
 - Ethics: Research Ethics (in Social and Behavioral Sciences Research Master)
 
-I also supervise ~8 undergraduate theses every year.
+I also supervise ~8 undergraduate and 8 master's theses every year.
 
 Teaching award:
 
